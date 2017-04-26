@@ -1,7 +1,7 @@
 1. Start Cloudera Director
 service cloudera-director-service start
 
-2 Review and source the environment file.  
+2. Review and source the environment file.  
   This controls the number of data nodes and their size
 source <director_env>.sh
 
