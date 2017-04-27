@@ -8,7 +8,7 @@
 4. Create the cluster  
 `cloudera-director-bootstrap <script>.conf`
 5. Log files in  
-`/home/ec2-user/.cloudera-director/logs/application.log`  
+`~/.cloudera-director/logs/application.log`  
 # configuration files
 sample configuration files are in `/usr/lib64/cloudera-director/client`  
 https://github.com/cloudera/director-scripts  
