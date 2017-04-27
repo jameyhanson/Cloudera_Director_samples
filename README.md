@@ -9,6 +9,8 @@
 `cloudera-director-bootstrap <script>.conf`
 5. Log files in  
 `~/.cloudera-director/logs/application.log`  
+6. Destroy the cluster and remove the AWS instances  
+`cloudera-directory terminate <script>.conf`
 # configuration files
 sample configuration files are in `/usr/lib64/cloudera-director/client`  
 https://github.com/cloudera/director-scripts  
